@@ -1,7 +1,10 @@
-*.cmake
-CMakeCache.txt
-Makefile
-CMakeFiles
 *.o
 *.ko
-linux*
+.*.cmd
+*.mod
+*.o
+*.ko
+Module.symvers
+modules.order
+*.mod.c
+.tmp*
